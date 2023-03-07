@@ -6,3 +6,6 @@ Merchant Solutions – Release Notes
   * Algo.java
   * Application.java
   * SignalHandler.java
+
+**Change Log**
+    * DynamicSignalHandler implemented 
