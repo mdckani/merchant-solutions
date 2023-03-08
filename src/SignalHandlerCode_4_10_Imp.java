@@ -25,14 +25,50 @@ abstract class SignalHandlerCode_4_10_Imp extends SignalHandlerCode_1_3_Imp {
     public void handleSignalCode5(int signal) {
         Algo algo = new Algo();
         algo.reverse();
-        algo.setAlgoParam(1, 80);
+        algo.setAlgoParam(1, 10);
         algo.submitToMarket();
         algo.doAlgo();
     }
 
     public void handleSignalCode6(int signal) {
         Algo algo = new Algo();
+        algo.setAlgoParam(1, 10);
+        algo.setAlgoParam(2, 15);
+        algo.performCalc();
+        algo.submitToMarket();
+        algo.doAlgo();
+    }
+
+    public void handleSignalCode7(int signal) {
+        Algo algo = new Algo();
+        algo.setAlgoParam(1, 9);
+        algo.setAlgoParam(2, 15);
+        algo.performCalc();
+        algo.submitToMarket();
+        algo.doAlgo();
+    }
+
+    public void handleSignalCode8(int signal) {
+        Algo algo = new Algo();
+        algo.setAlgoParam(1, 60);
+        algo.setAlgoParam(2, 15);
+        algo.performCalc();
+        algo.submitToMarket();
+        algo.doAlgo();
+    }
+
+    public void handleSignalCode9(int signal) {
+        Algo algo = new Algo();
         algo.setAlgoParam(1, 90);
+        algo.setAlgoParam(2, 5);
+        algo.performCalc();
+        algo.submitToMarket();
+        algo.doAlgo();
+    }
+
+    public void handleSignalCode10(int signal) {
+        Algo algo = new Algo();
+        algo.setAlgoParam(1, 9);
         algo.setAlgoParam(2, 15);
         algo.performCalc();
         algo.submitToMarket();
