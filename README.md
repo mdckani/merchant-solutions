@@ -56,7 +56,7 @@ Project is:  in progress
 - Implementation of SignalHandler for codes above 10
 
 ## Contact
-Created by [@mdckani](kdkani89@gmail.com/) - feel free to contact me!
+Created by [@mdckani](https://github.com/mdckani) - feel free to contact me!
 
 
 ## License

@@ -12,3 +12,4 @@ Merchant Solutions – Release Notes
   * SignalHandler Implementation with Consumer logic implemented 
   * SignalHandlerImp with abstract class SignalHandlerCode_1_3_Imp,  SignalHandlerCode_4_10_Imp
   * SignalHandlerCodeX functions implemented
+  * Junit Test included for Application class

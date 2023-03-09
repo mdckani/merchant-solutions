@@ -72,7 +72,7 @@ public class Application implements SignalHandler {
         Application app = new Application();
         for (int i = 1; i <= 10; i++) {
             System.out.println("Invoking signal : " + i);
-            app.handleSignal(i);
+            app.handleSignal(234);
         }
     }
 }
