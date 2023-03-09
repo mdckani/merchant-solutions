@@ -54,6 +54,7 @@ Project is:  in progress
 
 ## To do:
 - Implementation of SignalHandler for codes above 10
+- Implement JUnit Test
 
 ## Contact
 Created by [@mdckani](https://github.com/mdckani) - feel free to contact me!
